@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-nvidia-ai-endpoints
+langchain-weaviate
+langchain-community
+weaviate-client==4.6.5
+pypdf
